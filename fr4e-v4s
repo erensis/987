@@ -1,0 +1,25 @@
+ihtiyacımız olanlar:
+
+1 tane GİTHUB hesabı,
+
+1 tane NGROK hesabı,
+
+1. adım ilk önce GİTHUB GİT bu linke gidin,
+
+2. adım sağ üst koşede FORK yazıyor ona tıklayın,
+
+3. adım FORK'a bastıktan sonra SETTİNGS diye biryer açılcak ona tıklayın,
+
+4. adım settings e tıkladıktan sonra SECRETS'a tıklıyoruz,
+
+5. adım NEW REPOSİTORY SECRET'a tıklıyoruz ve name kısmına: NGROK_AUTH_TOKEN bunu yazıyoruz value kısmınada ngrok auth tokenş yapıştırcaz (örnek:1pFuaNeuIR6fOBtaRyVpm_dsafikcGPxs3cGSZKff9)
+
+6. adım yukarıda PROJECT in yanında ACTİONS yazıyor ona basıyoruz
+
+7. adım CL BY GETTO ya basıyoruz sonra RUN JOB'a basıyoruz ve f5 yaptığımızda build yazan yere tıklayıp bekliyecez, orda yazacak vds bilgileri..
+
+
+Not: Vds ortalama 6 saat liktir saat dolmadan verilerin yedegini alın.. ayrıca yeni hesap acmadan aynı hesapla yenisini başlatıp verileri yeni vds atın..
+
+
+Teşekkür Et**
